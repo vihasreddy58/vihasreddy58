@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheelam Vihas Reddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihasreddy58&label=Profile%20views&color=0e75b6&style=flat" alt="vihasreddy58" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vihasreddy58" alt="vihasreddy58" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -20,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihasreddy58&show_icons=true&locale=en&layout=compact" alt="vihasreddy58" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vihasreddy58&show_icons=true&locale=en" alt="vihasreddy58" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihasreddy58&" alt="vihasreddy58" /></p>
