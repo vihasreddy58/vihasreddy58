@@ -2,11 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihasreddy58&label=Profile%20views&color=0e75b6&style=flat" alt="vihasreddy58" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://vihasreddy.netlify.app/](https://vihasreddy.netlify.app/)
-
-- 📫 How to reach me **vihasreddy111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
